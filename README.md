@@ -106,19 +106,24 @@ I am developing expertise in **Data Science, Artificial Intelligence, and Machin
 
 ## 📈 GitHub snapshot
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mightyalok00&show_icons=true&hide_border=true" alt="Alok's GitHub statistics" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightyalok00&layout=compact&hide_border=true" alt="Alok's most used GitHub languages" />
-</p>
+| GitHub profile | Public projects | Contribution history |
+|:---:|:---:|:---:|
+| [View profile](https://github.com/mightyalok00) | [Browse repositories](https://github.com/mightyalok00?tab=repositories) | [View live activity](https://github.com/mightyalok00) |
 
 ## 📊 Contribution activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mightyalok00&hide_border=true" width="100%" alt="Alok Agarwal GitHub contribution activity graph" />
-</p>
+My contribution calendar and activity history are maintained directly by GitHub.
+
+[**View my live GitHub contribution history →**](https://github.com/mightyalok00)
+
+## 🐍 Contribution snake
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mightyalok00&style=flat-square" alt="GitHub profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mightyalok00/mightyalok00/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mightyalok00/mightyalok00/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/mightyalok00/mightyalok00/output/github-contribution-grid-snake.svg" alt="Animated contribution snake showing Alok Agarwal's GitHub activity" />
+  </picture>
 </p>
 
 ---
