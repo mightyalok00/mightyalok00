@@ -106,9 +106,13 @@ I am developing expertise in **Data Science, Artificial Intelligence, and Machin
 
 ## 📈 GitHub snapshot
 
-| GitHub profile | Public projects | Contribution history |
-|:---:|:---:|:---:|
-| [View profile](https://github.com/mightyalok00) | [Browse repositories](https://github.com/mightyalok00?tab=repositories) | [View live activity](https://github.com/mightyalok00) |
+<p align="center">
+  <a href="https://github.com/mightyalok00"><strong>GitHub profile</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/mightyalok00?tab=repositories"><strong>Public repositories</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/mightyalok00"><strong>Contribution history</strong></a>
+</p>
 
 ### 💻 Code Language Distribution
 
@@ -117,6 +121,18 @@ I am developing expertise in **Data Science, Artificial Intelligence, and Machin
 </p>
 
 <p align="center"><sub>Generated from GitHub's byte-level language data for active, non-fork public repositories.</sub></p>
+
+### 📦 Repository Code Volume
+
+<p align="center">
+  <img src="assets/repository-code-volume.svg" width="800" alt="Bar chart comparing GitHub-detected code volume across Alok Agarwal's public repositories" />
+</p>
+
+### 🕒 Recent Project Activity
+
+<p align="center">
+  <img src="assets/repository-update-timeline.svg" width="800" alt="Timeline showing the most recent push dates for Alok Agarwal's public repositories" />
+</p>
 
 ## 📊 Contribution activity
 

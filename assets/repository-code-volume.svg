@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="453" viewBox="0 0 800 453" role="img" aria-labelledby="title desc">
+  <title id="title">mightyalok00 repository code volume</title>
+  <desc id="desc">Horizontal bar chart of GitHub-detected code bytes by public repository.</desc>
+  <style>
+    .bg { fill: #ffffff; }
+    .heading { fill: #111827; font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .subheading { fill: #6b7280; font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .label { fill: #374151; font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .value { fill: #111827; font: 700 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .track, .grid { fill: #e5e7eb; stroke: #e5e7eb; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; } .heading, .value { fill: #f0f6fc; }
+      .subheading { fill: #8b949e; } .label { fill: #c9d1d9; }
+      .track, .grid { fill: #30363d; stroke: #30363d; }
+    }
+  </style>
+  <rect class="bg" width="800" height="453" rx="16"/>
+  <text x="40" y="46" class="heading">Repository Code Volume</text>
+  <text x="40" y="71" class="subheading">GitHub-detected code bytes in the largest active public repositories</text>
+  <text x="225" y="121" class="label" text-anchor="end">spotify-listener-statistics</text><rect x="245" y="105" width="420" height="20" rx="6" class="track"/><rect x="245" y="105" width="420.0" height="20" rx="6" fill="#DA5B0B"><title>spotify-listener-statistics-eda: 1,038,938 detected bytes</title></rect><text x="745" y="121" class="value" text-anchor="end">1.04 MB</text><text x="225" y="165" class="label" text-anchor="end">apollo-patient-flow-SQL-ana</text><rect x="245" y="149" width="420" height="20" rx="6" class="track"/><rect x="245" y="149" width="281.0" height="20" rx="6" fill="#3178C6"><title>apollo-patient-flow-SQL-analysis: 695,035 detected bytes</title></rect><text x="745" y="165" class="value" text-anchor="end">695 KB</text><text x="225" y="209" class="label" text-anchor="end">sample-small-model</text><rect x="245" y="193" width="420" height="20" rx="6" class="track"/><rect x="245" y="193" width="113.2" height="20" rx="6" fill="#DA5B0B"><title>sample-small-model: 279,977 detected bytes</title></rect><text x="745" y="209" class="value" text-anchor="end">280 KB</text><text x="225" y="253" class="label" text-anchor="end">HAND-GESTURE</text><rect x="245" y="237" width="420" height="20" rx="6" class="track"/><rect x="245" y="237" width="24.0" height="20" rx="6" fill="#3178C6"><title>HAND-GESTURE: 59,470 detected bytes</title></rect><text x="745" y="253" class="value" text-anchor="end">59 KB</text><text x="225" y="297" class="label" text-anchor="end">seaborn-diamonds-visual-ana</text><rect x="245" y="281" width="420" height="20" rx="6" class="track"/><rect x="245" y="281" width="23.2" height="20" rx="6" fill="#DA5B0B"><title>seaborn-diamonds-visual-analysis: 57,276 detected bytes</title></rect><text x="745" y="297" class="value" text-anchor="end">57 KB</text><text x="225" y="341" class="label" text-anchor="end">ai-hand-gesture-recognition</text><rect x="245" y="325" width="420" height="20" rx="6" class="track"/><rect x="245" y="325" width="21.9" height="20" rx="6" fill="#DA5B0B"><title>ai-hand-gesture-recognition: 54,055 detected bytes</title></rect><text x="745" y="341" class="value" text-anchor="end">54 KB</text><text x="225" y="385" class="label" text-anchor="end">mega-market-sales-dashboard</text><rect x="245" y="369" width="420" height="20" rx="6" class="track"/><rect x="245" y="369" width="9.1" height="20" rx="6" fill="#3572A5"><title>mega-market-sales-dashboard: 22,431 detected bytes</title></rect><text x="745" y="385" class="value" text-anchor="end">22 KB</text>
+</svg>

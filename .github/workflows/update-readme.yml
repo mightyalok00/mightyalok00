@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Update profile content and language chart
+      - name: Update profile content and snapshot charts
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
@@ -28,12 +28,12 @@ jobs:
 
       - name: Commit changes
         run: |
-          if git diff --quiet README.md assets/code-language-distribution.svg; then
-            echo "Profile content and chart are already up to date."
+          if git diff --quiet README.md assets; then
+            echo "Profile content and charts are already up to date."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/code-language-distribution.svg
+          git add README.md assets/*.svg
           git commit -m "chore: update profile data"
           git push
