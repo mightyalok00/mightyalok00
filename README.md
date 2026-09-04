@@ -110,6 +110,14 @@ I am developing expertise in **Data Science, Artificial Intelligence, and Machin
 |:---:|:---:|:---:|
 | [View profile](https://github.com/mightyalok00) | [Browse repositories](https://github.com/mightyalok00?tab=repositories) | [View live activity](https://github.com/mightyalok00) |
 
+### 💻 Code Language Distribution
+
+<p align="center">
+  <img src="assets/code-language-distribution.svg" width="800" alt="Pie chart of code languages across Alok Agarwal's active public GitHub repositories" />
+</p>
+
+<p align="center"><sub>Generated from GitHub's byte-level language data for active, non-fork public repositories.</sub></p>
+
 ## 📊 Contribution activity
 
 My contribution calendar and activity history are maintained directly by GitHub.
