@@ -127,3 +127,9 @@ I am developing expertise in **Data Science, Artificial Intelligence, and Machin
   <strong>Interested in data, machine learning, or applied AI?</strong><br />
   Explore my repositories and let us build something useful.
 </p>
+
+
+## 🆕 Latest repositories
+
+<!-- LATEST-REPOS:START -->
+<!-- LATEST-REPOS:END -->
