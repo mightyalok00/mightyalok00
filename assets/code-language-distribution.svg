@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" role="img" aria-labelledby="title desc">
   <title id="title">mightyalok00 code language distribution</title>
-  <desc id="desc">Pie chart generated from 10 active, non-fork public repositories using GitHub language byte totals.</desc>
+  <desc id="desc">Pie chart generated from 11 active, non-fork public repositories using GitHub language byte totals.</desc>
   <style>
     .bg { fill: #ffffff; }
     .heading { fill: #111827; font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
