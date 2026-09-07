@@ -161,7 +161,7 @@ My contribution calendar and activity history are maintained directly by GitHub.
 ## 🆕 Latest repositories
 
 <!-- LATEST-REPOS:START -->
-- [**Uber-fare-prediction-ml**](https://github.com/mightyalok00/Uber-fare-prediction-ml) — Uber Fare Prediction ML project using Python, Pandas, Scikit-learn, and Streamlit. Includes data cleaning, EDA, feature engineering, regression model comparison, Gradient Boosting fare prediction, model serialization, business analysis, and a deployable Streamlit app.
+- [**Uber-fare-prediction**](https://github.com/mightyalok00/Uber-fare-prediction) — Uber Fare Prediction ML project using Python, Pandas, Scikit-learn, and Streamlit. Includes data cleaning, EDA, feature engineering, regression model comparison, Gradient Boosting fare prediction, model serialization, business analysis, and a deployable Streamlit app. (Jupyter Notebook)
 - [**ott-viewer-engagement-eda**](https://github.com/mightyalok00/ott-viewer-engagement-eda) — Exploratory Data Analysis of synthetic OTT viewer engagement, drop-off and retention patterns using Python, Pandas, NumPy, Matplotlib and Seaborn. (Jupyter Notebook)
 - [**spotify-listener-statistics-eda**](https://github.com/mightyalok00/spotify-listener-statistics-eda) — Spotify Listener Statistics EDA using Python, Pandas, NumPy, Matplotlib, and Seaborn to analyze streaming trends, listener engagement, top artists, genres, albums, countries, skip rates, and Free vs Premium behavior. (Jupyter Notebook)
 - [**Spotify**](https://github.com/mightyalok00/Spotify) — Spotify Project
