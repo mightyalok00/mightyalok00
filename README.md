@@ -161,10 +161,10 @@ My contribution calendar and activity history are maintained directly by GitHub.
 ## 🆕 Latest repositories
 
 <!-- LATEST-REPOS:START -->
-- [**ott-viewer-engagement-eda**](https://github.com/mightyalok00/ott-viewer-engagement-eda) — Exploratory Data Analysis of synthetic OTT viewer engagement, drop-off and retention patterns using Python, Pandas, NumPy, Matplotlib and Seaborn. (Jupyter Notebook)
 - [**spotify-listener-statistics-eda**](https://github.com/mightyalok00/spotify-listener-statistics-eda) — Spotify Listener Statistics EDA using Python, Pandas, NumPy, Matplotlib, and Seaborn to analyze streaming trends, listener engagement, top artists, genres, albums, countries, skip rates, and Free vs Premium behavior. (Jupyter Notebook)
 - [**Spotify**](https://github.com/mightyalok00/Spotify) — Spotify Project
 - [**sample-small-model**](https://github.com/mightyalok00/sample-small-model) — model test (Jupyter Notebook)
 - [**apollo-patient-flow-SQL-analysis**](https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis) — End-to-end MySQL 8.0 analysis of a synthetic hospital patient-flow dataset using joins, CTEs, window functions, indexes and query optimization to examine admissions, waiting times, readmissions, bed utilization and operational bottlenecks. (TypeScript · ⭐ 1)
 - [**Apollo-database**](https://github.com/mightyalok00/Apollo-database) — Apollo patients (⭐ 1)
+- [**HAND-GESTURE**](https://github.com/mightyalok00/HAND-GESTURE) — GESTURES (TypeScript)
 <!-- LATEST-REPOS:END -->
