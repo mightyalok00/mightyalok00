@@ -161,7 +161,7 @@ My contribution calendar and activity history are maintained directly by GitHub.
 ## 🆕 Latest repositories
 
 <!-- LATEST-REPOS:START -->
-- [**house-prices-simple-polynomial-regression**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) — Beginner-friendly House Prices project using degree-2 polynomial regression and Streamlit. (Python)
+- [**house-prices-simple-polynomial-regression**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) — Beginner-friendly House Prices project using degree-2 polynomial regression and Streamlit. (Jupyter Notebook)
 - [**Uber-Fare-Prediction-Model**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) — Uber fare prediction using machine learning, with data cleaning, feature engineering, regression model comparison, and a Streamlit dashboard. Includes a validated model, reproducible training pipeline, and Jupyter notebook. (Jupyter Notebook)
 - [**ott-viewer-engagement-eda**](https://github.com/mightyalok00/ott-viewer-engagement-eda) — Exploratory Data Analysis of synthetic OTT viewer engagement, drop-off and retention patterns using Python, Pandas, NumPy, Matplotlib and Seaborn. (Jupyter Notebook)
 - [**spotify-listener-statistics-eda**](https://github.com/mightyalok00/spotify-listener-statistics-eda) — Spotify Listener Statistics EDA using Python, Pandas, NumPy, Matplotlib, and Seaborn to analyze streaming trends, listener engagement, top artists, genres, albums, countries, skip rates, and Free vs Premium behavior. (Jupyter Notebook)
