@@ -122,12 +122,12 @@ I am currently developing deeper capability in **advanced machine learning, NLP,
 ## Latest repositories
 
 <!-- LATEST-REPOS:START -->
-- [**atm-management-system-python**](https://github.com/mightyalok00/atm-management-system-python) — Console-based ATM Management System built with Python OOP, JSON persistence, input validation, exception handling, automated testing, and transaction history. (Python)
-- [**house-prices-simple-polynomial-regression**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) — House Prices project using degree-2 polynomial regression and Streamlit. (Jupyter Notebook)
-- [**Uber-Fare-Prediction-Model**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) — Uber fare prediction with data cleaning, feature engineering, regression model comparison, reproducible training and Streamlit deployment. (Jupyter Notebook)
-- [**ott-viewer-engagement-eda**](https://github.com/mightyalok00/ott-viewer-engagement-eda) — EDA of synthetic OTT viewer engagement, drop-off and retention patterns. (Jupyter Notebook)
-- [**spotify-listener-statistics-eda**](https://github.com/mightyalok00/spotify-listener-statistics-eda) — Spotify listener statistics EDA covering streaming trends and engagement. (Jupyter Notebook)
-- [**apollo-patient-flow-SQL-analysis**](https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis) — SQL analysis of hospital patient flow and operational performance. (SQL)
+- [**Uber-Fare-Prediction-Model**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) — Uber fare prediction using machine learning, with data cleaning, feature engineering, regression model comparison, and a Streamlit dashboard. Includes a validated model, reproducible training pipeline, and Jupyter notebook. (Jupyter Notebook)
+- [**atm-management-system-python**](https://github.com/mightyalok00/atm-management-system-python) — A good GitHub repository description is: Console-based ATM Management System built with Python OOP, JSON file handling, input validation, exception handling, transaction history, and persistent account storage. (Python)
+- [**house-prices-simple-polynomial-regression**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) — Beginner-friendly House Prices project using degree-2 polynomial regression and Streamlit. (Jupyter Notebook)
+- [**ott-viewer-engagement-eda**](https://github.com/mightyalok00/ott-viewer-engagement-eda) — Exploratory Data Analysis of synthetic OTT viewer engagement, drop-off and retention patterns using Python, Pandas, NumPy, Matplotlib and Seaborn. (Jupyter Notebook)
+- [**spotify-listener-statistics-eda**](https://github.com/mightyalok00/spotify-listener-statistics-eda) — Spotify Listener Statistics EDA using Python, Pandas, NumPy, Matplotlib, and Seaborn to analyze streaming trends, listener engagement, top artists, genres, albums, countries, skip rates, and Free vs Premium behavior. (Jupyter Notebook)
+- [**sample-small-model**](https://github.com/mightyalok00/sample-small-model) — model test (Jupyter Notebook)
 <!-- LATEST-REPOS:END -->
 
 ---
