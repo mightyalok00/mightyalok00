@@ -161,10 +161,10 @@ My contribution calendar and activity history are maintained directly by GitHub.
 ## 🆕 Latest repositories
 
 <!-- LATEST-REPOS:START -->
+- [**atm-management-system-python**](https://github.com/mightyalok00/atm-management-system-python) — A good GitHub repository description is: Console-based ATM Management System built with Python OOP, JSON file handling, input validation, exception handling, transaction history, and persistent account storage.
 - [**house-prices-simple-polynomial-regression**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) — Beginner-friendly House Prices project using degree-2 polynomial regression and Streamlit. (Jupyter Notebook)
 - [**Uber-Fare-Prediction-Model**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) — Uber fare prediction using machine learning, with data cleaning, feature engineering, regression model comparison, and a Streamlit dashboard. Includes a validated model, reproducible training pipeline, and Jupyter notebook. (Jupyter Notebook)
 - [**ott-viewer-engagement-eda**](https://github.com/mightyalok00/ott-viewer-engagement-eda) — Exploratory Data Analysis of synthetic OTT viewer engagement, drop-off and retention patterns using Python, Pandas, NumPy, Matplotlib and Seaborn. (Jupyter Notebook)
 - [**spotify-listener-statistics-eda**](https://github.com/mightyalok00/spotify-listener-statistics-eda) — Spotify Listener Statistics EDA using Python, Pandas, NumPy, Matplotlib, and Seaborn to analyze streaming trends, listener engagement, top artists, genres, albums, countries, skip rates, and Free vs Premium behavior. (Jupyter Notebook)
 - [**Spotify**](https://github.com/mightyalok00/Spotify) — Spotify Project
-- [**sample-small-model**](https://github.com/mightyalok00/sample-small-model) — model test (Jupyter Notebook)
 <!-- LATEST-REPOS:END -->
