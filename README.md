@@ -1,170 +1,135 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Alok%20Agarwal&fontAlign=50&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Analytics&descAlign=50&descAlignY=58" width="100%" alt="Alok Agarwal - Data Science, AI and Analytics" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Alok%20Agarwal&fontAlign=50&fontAlignY=38&desc=Data%20Analyst%20%7C%20Junior%20Data%20Scientist%20%7C%20Python%20%7C%20SQL%20%7C%20Machine%20Learning&descAlign=50&descAlignY=58" width="100%" alt="Alok Agarwal - Data Analyst and Junior Data Scientist" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mightyalok00?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Alok's projects" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mightyalok00">
-    <img src="https://img.shields.io/badge/Connect_on_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Connect with Alok on GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alok-agarwal-seo-digital-marketing">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Alok on LinkedIn" />
-  </a>
+  <a href="https://github.com/mightyalok00?tab=repositories"><strong>Projects</strong></a> •
+  <a href="https://www.linkedin.com/in/alok-agarwal-seo-digital-marketing"><strong>LinkedIn</strong></a>
 </p>
 
-## 👋 About me
+## About me
 
-I am developing expertise in **Data Science, Artificial Intelligence, and Machine Learning** through structured professional training, supported by a completed course in **Digital Marketing**. I build practical projects using Python, SQL, analytics, and machine learning to uncover insights, solve business problems, and support measurable growth.
+I am building a career in **Data Analytics and Data Science**, combining hands-on work in **Python, SQL, exploratory data analysis, machine learning, data visualization, and Streamlit deployment** with a professional background in **SEO and Digital Marketing**.
 
-- **Current focus:** Python, SQL, exploratory data analysis, machine learning, and data visualization
-- **Professional development:** Data Science, Artificial Intelligence, and Machine Learning
-- **Business background:** Digital Marketing, SEO, audience insights, and growth strategy
+I focus on projects that answer business questions, document methodology, report measurable results, and can be reproduced by another analyst or developer.
 
-<table width="100%">
-  <tr>
-    <td align="center" valign="top" width="33.33%">
-      <strong>📊 Analytics</strong><br />
-      Clean data, uncover patterns,<br />and communicate decisions
-    </td>
-    <td align="center" valign="top" width="33.33%">
-      <strong>🧠 Machine Learning</strong><br />
-      Build, evaluate, and explain<br />predictive models
-    </td>
-    <td align="center" valign="top" width="33.33%">
-      <strong>⚡ Applied AI</strong><br />
-      Turn models into practical,<br />interactive experiences
-    </td>
-  </tr>
-</table>
+**Target roles:** Data Analyst • Junior Data Scientist • Python/Data Analytics roles
 
-## 🚀 Featured work
+**Core skills:** Python • SQL/MySQL • Pandas • NumPy • scikit-learn • Matplotlib • Seaborn • Jupyter • Streamlit • Git • EDA • Regression • Feature Engineering • Model Evaluation • Data Visualization
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis">Apollo Patient Flow Analysis</a></h3>
-      <p>End-to-end hospital operations analysis covering admissions, waiting times, readmissions, bed utilization, bottlenecks, and query optimization.</p>
-      <p><strong>Project proof</strong><br />2,500 admissions · 7,300 occupancy records · 4 hospitals · 15 analytical questions</p>
-      <p><code>MySQL</code> <code>SQL</code> <code>Python</code> <code>CTEs</code> <code>Window Functions</code></p>
-      <p><a href="https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis"><strong>View repository →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖐️ <a href="https://github.com/mightyalok00/ai-hand-gesture-recognition">AI Hand Gesture Recognition</a></h3>
-      <p>Real-time computer-vision application with webcam input, landmark tracking, confidence controls, temporal smoothing, and downloadable gesture history.</p>
-      <p><strong>Project proof</strong><br />11 gestures · Up to 2 hands · Real-time FPS · CSV export</p>
-      <p><code>Python</code> <code>Streamlit</code> <code>MediaPipe</code> <code>OpenCV</code></p>
-      <p><a href="https://github.com/mightyalok00/ai-hand-gesture-recognition"><strong>View repository →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/mightyalok00/mega-market-sales-dashboard">Mega Market Dashboard</a></h3>
-      <p>Interactive dashboard for exploring sales, profit, customers, products, countries, store states, and returns from one business-focused interface.</p>
-      <p><strong>Focus</strong><br />Executive KPIs · Customer analysis · Product performance · Regional insights</p>
-      <p><code>Python</code> <code>Streamlit</code> <code>Pandas</code> <code>Data Visualization</code></p>
-      <p><a href="https://github.com/mightyalok00/mega-market-sales-dashboard"><strong>View repository →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💎 <a href="https://github.com/mightyalok00/seaborn-diamonds-visual-analysis">Diamonds Visual Analysis</a></h3>
-      <p>Statistical exploration and visual analysis of the Seaborn diamonds dataset, designed to turn distributions and relationships into understandable insights.</p>
-      <p><strong>Focus</strong><br />EDA · Statistical analysis · Visual storytelling · Interactive exploration</p>
-      <p><code>Python</code> <code>Pandas</code> <code>Seaborn</code> <code>Jupyter</code></p>
-      <p><a href="https://github.com/mightyalok00/seaborn-diamonds-visual-analysis"><strong>View repository →</strong></a></p>
-    </td>
-  </tr>
-</table>
+## Featured portfolio
 
-## 🧰 Technical toolkit
+### 1. 🚕 Uber Fare Prediction — End-to-End Machine Learning
+[**Repository**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) • [**Live Streamlit App**](https://uber-fare-prediction-model.streamlit.app/)
+
+Regression project built from a 50,000-trip dataset with data validation, feature engineering, leakage-aware preprocessing, model comparison, saved pipeline verification, reproducible training, and deployment.
+
+**Evidence:** 42,538 completed trips used for modeling • Linear Regression, Random Forest and Gradient Boosting compared • MAE 2.474 • RMSE 3.093 • R² 0.754 for the reported Linear Regression test result.
+
+`Python` `Pandas` `NumPy` `scikit-learn` `Feature Engineering` `Regression` `Streamlit`
+
+### 2. 🏥 Apollo Patient Flow — SQL Analytics
+[**Repository**](https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis)
+
+Hospital-operations analysis covering admissions, waiting time, length of stay, readmissions, doctor workload, department performance, bed utilization, bottlenecks, and query optimization.
+
+**Evidence:** 2,500 admissions • 7,300 bed-occupancy records • 4 hospitals • 15 analytical questions.
+
+`MySQL` `SQL` `CTEs` `Window Functions` `Joins` `Indexes` `Business Analytics`
+
+### 3. 🏠 House Price Prediction — Polynomial Regression
+[**Repository**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) • [**Live Streamlit App**](https://house-prices-simple-polynomial-regression.streamlit.app/)
+
+Focused regression project demonstrating preprocessing, degree-2 polynomial features, model evaluation, prediction workflow, documentation, and interactive deployment.
+
+`Python` `Pandas` `scikit-learn` `Polynomial Regression` `Streamlit`
+
+### 4. 📺 OTT Viewer Engagement — Exploratory Data Analysis
+[**Repository**](https://github.com/mightyalok00/ott-viewer-engagement-eda)
+
+EDA of viewer engagement, drop-off, retention risk, watch behavior, pauses, rewinds, intro skipping, and cognitive-load patterns across approximately 33,200 episode records.
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA`
+
+### 5. 🎵 Spotify Listener Statistics — Exploratory Data Analysis
+[**Repository**](https://github.com/mightyalok00/spotify-listener-statistics-eda)
+
+Analysis of streaming trends, listener engagement, artists, genres, countries, skip rates, and platform behavior using a structured EDA workflow.
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Data Visualization`
+
+### 6. 🖐️ AI Hand Gesture Recognition — Computer Vision Application
+[**Repository**](https://github.com/mightyalok00/ai-hand-gesture-recognition)
+
+Real-time computer-vision application using webcam input, landmark tracking, confidence controls, temporal smoothing, real-time FPS, and downloadable gesture history.
+
+**Evidence:** 11 gestures • up to 2 hands • CSV export.
+
+`Python` `OpenCV` `MediaPipe` `Streamlit` `Computer Vision`
+
+## Additional Python engineering
+
+### 🏧 ATM Management System
+[**Repository**](https://github.com/mightyalok00/atm-management-system-python)
+
+Console-based Python application demonstrating OOP, modules, JSON persistence, validation, custom exceptions, automated unit testing, transaction history, and rollback behavior for persistence failures.
+
+`Python` `OOP` `JSON` `unittest` `Exception Handling`
+
+## What my portfolio demonstrates
+
+- **Data analysis:** cleaning, EDA, visualization, KPI interpretation and business-focused findings.
+- **SQL:** joins, CTEs, window functions, aggregation, indexing and operational analysis.
+- **Machine learning:** feature engineering, regression, leakage awareness, model comparison, evaluation and persisted pipelines.
+- **Deployment:** interactive Streamlit applications for prediction and analysis.
+- **Python engineering:** modular code, OOP, validation, exception handling, persistence and automated tests.
+- **Business context:** experience connecting technical analysis with SEO, marketing, customer and growth questions.
+
+## Technical toolkit
+
+`Python` `SQL` `MySQL` `Pandas` `NumPy` `scikit-learn` `Matplotlib` `Seaborn` `Jupyter Notebook` `Streamlit` `OpenCV` `MediaPipe` `Git` `GitHub`
+
+## Currently learning
+
+I am currently developing deeper capability in **advanced machine learning, NLP, deep learning, Generative AI, RAG, and production deployment**. These are listed as learning areas rather than claimed as proven portfolio competencies.
+
+## GitHub snapshot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="assets/code-language-distribution.svg" width="800" alt="Code language distribution across active public repositories" />
 </p>
-
-## 🎯 Currently exploring
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Advanced_ML-6D28D9?style=for-the-badge" alt="Advanced ML" />
-  <img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge" alt="NLP" />
-  <img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=for-the-badge" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Generative_AI-2563EB?style=for-the-badge" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/RAG-3B82F6?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Deployment-0EA5E9?style=for-the-badge" alt="Deployment" />
+  <img src="assets/repository-code-volume.svg" width="800" alt="Repository code volume across active public repositories" />
 </p>
-
-## 📈 GitHub snapshot
 
 <p align="center">
-  <a href="https://github.com/mightyalok00"><strong>GitHub profile</strong></a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/mightyalok00?tab=repositories"><strong>Public repositories</strong></a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/mightyalok00"><strong>Contribution history</strong></a>
+  <img src="assets/repository-update-timeline.svg" width="800" alt="Recent repository update timeline" />
 </p>
 
-### 💻 Code Language Distribution
+## Contribution activity
 
-<p align="center">
-  <img src="assets/code-language-distribution.svg" width="800" alt="Pie chart of code languages across Alok Agarwal's active public GitHub repositories" />
-</p>
-
-<p align="center"><sub>Generated from GitHub's byte-level language data for active, non-fork public repositories.</sub></p>
-
-### 📦 Repository Code Volume
-
-<p align="center">
-  <img src="assets/repository-code-volume.svg" width="800" alt="Bar chart comparing GitHub-detected code volume across Alok Agarwal's public repositories" />
-</p>
-
-### 🕒 Recent Project Activity
-
-<p align="center">
-  <img src="assets/repository-update-timeline.svg" width="800" alt="Timeline showing the most recent push dates for Alok Agarwal's public repositories" />
-</p>
-
-## 📊 Contribution activity
-
-My contribution calendar and activity history are maintained directly by GitHub.
-
-[**View my live GitHub contribution history →**](https://github.com/mightyalok00)
-
-## 🐍 Contribution snake
+[**View live GitHub contribution history →**](https://github.com/mightyalok00)
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mightyalok00/mightyalok00/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mightyalok00/mightyalok00/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/mightyalok00/mightyalok00/output/github-contribution-grid-snake.svg" alt="Animated contribution snake showing Alok Agarwal's GitHub activity" />
+    <img src="https://raw.githubusercontent.com/mightyalok00/mightyalok00/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity" />
   </picture>
 </p>
 
----
-
-<p align="center">
-  <strong>Interested in data, machine learning, or applied AI?</strong><br />
-  Explore my repositories and let us build something useful.
-</p>
-
-
-## 🆕 Latest repositories
+## Latest repositories
 
 <!-- LATEST-REPOS:START -->
-- [**atm-management-system-python**](https://github.com/mightyalok00/atm-management-system-python) — A good GitHub repository description is: Console-based ATM Management System built with Python OOP, JSON file handling, input validation, exception handling, transaction history, and persistent account storage. (Python)
-- [**house-prices-simple-polynomial-regression**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) — Beginner-friendly House Prices project using degree-2 polynomial regression and Streamlit. (Jupyter Notebook)
-- [**Uber-Fare-Prediction-Model**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) — Uber fare prediction using machine learning, with data cleaning, feature engineering, regression model comparison, and a Streamlit dashboard. Includes a validated model, reproducible training pipeline, and Jupyter notebook. (Jupyter Notebook)
-- [**ott-viewer-engagement-eda**](https://github.com/mightyalok00/ott-viewer-engagement-eda) — Exploratory Data Analysis of synthetic OTT viewer engagement, drop-off and retention patterns using Python, Pandas, NumPy, Matplotlib and Seaborn. (Jupyter Notebook)
-- [**spotify-listener-statistics-eda**](https://github.com/mightyalok00/spotify-listener-statistics-eda) — Spotify Listener Statistics EDA using Python, Pandas, NumPy, Matplotlib, and Seaborn to analyze streaming trends, listener engagement, top artists, genres, albums, countries, skip rates, and Free vs Premium behavior. (Jupyter Notebook)
-- [**Spotify**](https://github.com/mightyalok00/Spotify) — Spotify Project
+- [**atm-management-system-python**](https://github.com/mightyalok00/atm-management-system-python) — Console-based ATM Management System built with Python OOP, JSON persistence, input validation, exception handling, automated testing, and transaction history. (Python)
+- [**house-prices-simple-polynomial-regression**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) — House Prices project using degree-2 polynomial regression and Streamlit. (Jupyter Notebook)
+- [**Uber-Fare-Prediction-Model**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) — Uber fare prediction with data cleaning, feature engineering, regression model comparison, reproducible training and Streamlit deployment. (Jupyter Notebook)
+- [**ott-viewer-engagement-eda**](https://github.com/mightyalok00/ott-viewer-engagement-eda) — EDA of synthetic OTT viewer engagement, drop-off and retention patterns. (Jupyter Notebook)
+- [**spotify-listener-statistics-eda**](https://github.com/mightyalok00/spotify-listener-statistics-eda) — Spotify listener statistics EDA covering streaming trends and engagement. (Jupyter Notebook)
+- [**apollo-patient-flow-SQL-analysis**](https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis) — SQL analysis of hospital patient flow and operational performance. (SQL)
 <!-- LATEST-REPOS:END -->
+
+---
+
+**Alok Agarwal** • Data Analytics • Data Science • Python • SQL • Machine Learning
