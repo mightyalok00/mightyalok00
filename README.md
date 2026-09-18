@@ -17,6 +17,10 @@ I focus on projects that answer business questions, document methodology, report
 
 **Core skills:** Python • SQL/MySQL • Pandas • NumPy • scikit-learn • Matplotlib • Seaborn • Jupyter • Streamlit • Git • EDA • Regression • Feature Engineering • Model Evaluation • Data Visualization
 
+## ⭐ Featured open-source portfolio
+
+Explore the projects below for reproducible data science, machine learning, SQL analytics, and deployed Streamlit applications. If a project helps you learn or build something, consider starring its repository — it helps other developers discover the work.
+
 ## Featured portfolio
 
 ### 1. 🚕 Uber Fare Prediction — End-to-End Machine Learning
