@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Alok%20Agarwal&fontAlign=50&fontAlignY=38&desc=Data%20Analyst%20%7C%20Junior%20Data%20Scientist%20%7C%20Python%20%7C%20SQL%20%7C%20Machine%20Learning&descAlign=50&descAlignY=58" width="100%" alt="Alok Agarwal - Data Analyst and Junior Data Scientist" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Alok%20Agarwal&fontAlign=50&fontAlignY=38&desc=SEO%20%2B%20Digital%20Marketing%20%7C%20Data%20Analytics%20%7C%20Python%20%7C%20SQL%20%7C%20Machine%20Learning&descAlign=50&descAlignY=58" width="100%" alt="Alok Agarwal - SEO, Data Analytics and Junior Data Scientist" />
 </p>
 
 <p align="center">
@@ -9,93 +9,102 @@
 
 ## About me
 
-I am building a career in **Data Analytics and Data Science**, combining hands-on work in **Python, SQL, exploratory data analysis, machine learning, data visualization, and Streamlit deployment** with a professional background in **SEO and Digital Marketing**.
+I am an **SEO Strategist and Digital Marketer transitioning into Data Analytics, Data Science, and AI/ML**. My work combines hands-on experience in SEO analytics, content strategy, technical audits, reporting, and business growth with practical projects in **Python, SQL, machine learning, data visualization, and Streamlit deployment**.
 
-I focus on projects that answer business questions, document methodology, report measurable results, and can be reproduced by another analyst or developer.
+I build projects that answer business questions, document methodology, report measurable results, and can be reproduced by another analyst, recruiter, or developer.
 
-**Target roles:** Data Analyst • Junior Data Scientist • Python/Data Analytics roles
+**Target roles:** Data Analyst • Marketing/Data Analyst • Junior Data Scientist • SEO/Data Analytics roles
 
-**Core skills:** Python • SQL/MySQL • Pandas • NumPy • scikit-learn • Matplotlib • Seaborn • Jupyter • Streamlit • Git • EDA • Regression • Feature Engineering • Model Evaluation • Data Visualization
+**Core skills:** Python • SQL/MySQL • Pandas • NumPy • scikit-learn • Matplotlib • Seaborn • Jupyter • Streamlit • Git • EDA • Regression • Feature Engineering • Model Evaluation • Data Visualization • SEO Analytics
 
-## ⭐ Featured open-source portfolio
+## Best projects to review first
 
-Explore the projects below for reproducible data science, machine learning, SQL analytics, and deployed Streamlit applications. If a project helps you learn or build something, consider starring its repository — it helps other developers discover the work.
-
-## Featured portfolio
+These repositories are the strongest examples of my current portfolio quality, documentation, reproducibility, and business thinking.
 
 ### 1. 🚕 Uber Fare Prediction — End-to-End Machine Learning
 [**Repository**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) • [**Live Streamlit App**](https://uber-fare-prediction-model.streamlit.app/)
 
-Regression project built from a 50,000-trip dataset with data validation, feature engineering, leakage-aware preprocessing, model comparison, saved pipeline verification, reproducible training, and deployment.
+Regression project built from a 50,000-trip educational dataset with data validation, feature engineering, leakage-aware preprocessing, model comparison, saved pipeline verification, reproducible training, and deployment.
 
 **Evidence:** 42,538 completed trips used for modeling • Linear Regression, Random Forest and Gradient Boosting compared • MAE 2.474 • RMSE 3.093 • R² 0.754 for the reported Linear Regression test result.
 
 `Python` `Pandas` `NumPy` `scikit-learn` `Feature Engineering` `Regression` `Streamlit`
 
-### 2. 🏥 Apollo Patient Flow — SQL Analytics
-[**Repository**](https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis)
+### 2. 🩺 Medical Insurance Charges Regression — ML + Business Interpretation
+[**Repository**](https://github.com/mightyalok00/medical-insurance-charges-regression) • [**Live Streamlit App**](https://medical-insurance-charges-regression.streamlit.app/)
 
-Hospital-operations analysis covering admissions, waiting time, length of stay, readmissions, doctor workload, department performance, bed utilization, bottlenecks, and query optimization.
+End-to-end regression project comparing Linear Regression, Polynomial Regression, and Decision Tree Regression with leakage-safe preprocessing, cross-validation, model interpretation, saved artifacts, reporting, and Streamlit deployment.
 
-**Evidence:** 2,500 admissions • 7,300 bed-occupancy records • 4 hospitals • 15 analytical questions.
+**Evidence:** 1,337 cleaned records • 3 models compared • Decision Tree selected on saved holdout metrics • Test R² 0.8972 • Test RMSE 4,345.88.
 
-`MySQL` `SQL` `CTEs` `Window Functions` `Joins` `Indexes` `Business Analytics`
+`Python` `Pandas` `scikit-learn` `Model Evaluation` `Business Analysis` `Streamlit`
 
 ### 3. 🏠 House Price Prediction — Polynomial Regression
 [**Repository**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) • [**Live Streamlit App**](https://house-prices-simple-polynomial-regression.streamlit.app/)
 
-Focused regression project demonstrating preprocessing, degree-2 polynomial features, model evaluation, prediction workflow, documentation, and interactive deployment.
+Focused regression project demonstrating leakage-safe preprocessing, repeated cross-validation, polynomial-degree comparison, residual analysis, model selection, automated tests, GitHub Actions quality checks, and interactive deployment.
 
-`Python` `Pandas` `scikit-learn` `Polynomial Regression` `Streamlit`
+**Evidence:** 25 matched repeated-CV splits • Degree 1 selected for stronger generalization • CV RMSE 25,773.41 • R² 0.8930.
 
-### 4. 📺 OTT Viewer Engagement — Exploratory Data Analysis
+`Python` `Pandas` `scikit-learn` `Polynomial Regression` `Testing` `GitHub Actions` `Streamlit`
+
+### 4. 🏥 Apollo Patient Flow — SQL Analytics
+[**Repository**](https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis)
+
+Hospital-operations analysis covering admissions, waiting time, length of stay, readmissions, doctor workload, department performance, bed utilization, bottlenecks, and query optimization.
+
+**Evidence:** 2,500 admissions • 7,300 bed-occupancy records • 4 hospitals • 15 analytical questions • CTEs, joins, window functions, views, indexing, and `EXPLAIN`.
+
+`MySQL` `SQL` `CTEs` `Window Functions` `Joins` `Indexes` `Business Analytics`
+
+### 5. 📺 OTT Viewer Engagement — Exploratory Data Analysis
 [**Repository**](https://github.com/mightyalok00/ott-viewer-engagement-eda)
 
-EDA of viewer engagement, drop-off, retention risk, watch behavior, pauses, rewinds, intro skipping, and cognitive-load patterns across approximately 33,200 episode records.
+Business-focused EDA of viewer engagement, drop-off, retention risk, watch behavior, pauses, rewinds, intro skipping, and cognitive-load patterns across synthetic OTT episode-level observations.
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA`
+**Evidence:** 33,171 records • 14-stage EDA workflow • engagement/drop-off/retention insights • documented limitations and synthetic-data disclaimer.
 
-### 5. 🎵 Spotify Listener Statistics — Exploratory Data Analysis
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA` `Business Insights`
+
+### 6. 🎵 Spotify Listener Statistics — Exploratory Data Analysis
 [**Repository**](https://github.com/mightyalok00/spotify-listener-statistics-eda)
 
-Analysis of streaming trends, listener engagement, artists, genres, countries, skip rates, and platform behavior using a structured EDA workflow.
+Structured EDA project analyzing streaming trends, listener engagement, artists, genres, countries, skip rates, and platform behavior.
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Data Visualization`
-
-### 6. 🖐️ AI Hand Gesture Recognition — Computer Vision Application
-[**Repository**](https://github.com/mightyalok00/ai-hand-gesture-recognition)
-
-Real-time computer-vision application using webcam input, landmark tracking, confidence controls, temporal smoothing, real-time FPS, and downloadable gesture history.
-
-**Evidence:** 11 gestures • up to 2 hands • CSV export.
-
-`Python` `OpenCV` `MediaPipe` `Streamlit` `Computer Vision`
 
 ## Additional Python engineering
 
 ### 🏧 ATM Management System
 [**Repository**](https://github.com/mightyalok00/atm-management-system-python)
 
-Console-based Python application demonstrating OOP, modules, JSON persistence, validation, custom exceptions, automated unit testing, transaction history, and rollback behavior for persistence failures.
+Console-based Python application demonstrating object-oriented programming, JSON persistence, input validation, custom exceptions, transaction history, rollback behavior, and automated unit tests.
 
 `Python` `OOP` `JSON` `unittest` `Exception Handling`
 
+### 🖐️ AI Hand Gesture Recognition
+[**Repository**](https://github.com/mightyalok00/ai-hand-gesture-recognition)
+
+Real-time computer-vision application using webcam input, landmark tracking, confidence controls, temporal smoothing, real-time FPS, and downloadable gesture history.
+
+`Python` `OpenCV` `MediaPipe` `Streamlit` `Computer Vision`
+
 ## What my portfolio demonstrates
 
-- **Data analysis:** cleaning, EDA, visualization, KPI interpretation and business-focused findings.
-- **SQL:** joins, CTEs, window functions, aggregation, indexing and operational analysis.
-- **Machine learning:** feature engineering, regression, leakage awareness, model comparison, evaluation and persisted pipelines.
+- **Data analysis:** cleaning, EDA, visualization, KPI interpretation, and business-focused findings.
+- **SQL:** joins, CTEs, window functions, aggregation, indexing, and operational analysis.
+- **Machine learning:** feature engineering, regression, leakage awareness, model comparison, evaluation, and persisted pipelines.
 - **Deployment:** interactive Streamlit applications for prediction and analysis.
-- **Python engineering:** modular code, OOP, validation, exception handling, persistence and automated tests.
-- **Business context:** experience connecting technical analysis with SEO, marketing, customer and growth questions.
+- **Python engineering:** modular code, OOP, validation, exception handling, persistence, and automated tests.
+- **Marketing analytics bridge:** SEO and digital-marketing experience translated into data-driven reporting, experimentation, and business recommendations.
 
 ## Technical toolkit
 
-`Python` `SQL` `MySQL` `Pandas` `NumPy` `scikit-learn` `Matplotlib` `Seaborn` `Jupyter Notebook` `Streamlit` `OpenCV` `MediaPipe` `Git` `GitHub`
+`Python` `SQL` `MySQL` `Pandas` `NumPy` `scikit-learn` `Matplotlib` `Seaborn` `Jupyter Notebook` `Streamlit` `OpenCV` `MediaPipe` `Git` `GitHub` `SEO Analytics`
 
 ## Currently learning
 
-I am currently developing deeper capability in **advanced machine learning, NLP, deep learning, Generative AI, RAG, and production deployment**. These are listed as learning areas rather than claimed as proven portfolio competencies.
+I am developing deeper capability in **advanced machine learning, NLP, deep learning, Generative AI, RAG, and production deployment**. These are listed as learning areas rather than claimed as proven portfolio competencies.
 
 ## GitHub snapshot
 
@@ -123,17 +132,6 @@ I am currently developing deeper capability in **advanced machine learning, NLP,
   </picture>
 </p>
 
-## Latest repositories
-
-<!-- LATEST-REPOS:START -->
-- [**ott-viewer-engagement-eda**](https://github.com/mightyalok00/ott-viewer-engagement-eda) — Exploratory Data Analysis of synthetic OTT viewer engagement, drop-off and retention patterns using Python, Pandas, NumPy, Matplotlib and Seaborn. (Jupyter Notebook)
-- [**apollo-patient-flow-SQL-analysis**](https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis) — End-to-end MySQL 8.0 analysis of a synthetic hospital patient-flow dataset using joins, CTEs, window functions, indexes and query optimization to examine admissions, waiting times, readmissions, bed utilization and operational bottlenecks. (TypeScript · ⭐ 1)
-- [**Uber-Fare-Prediction-Model**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) — Uber fare prediction using machine learning, with data cleaning, feature engineering, regression model comparison, and a Streamlit dashboard. Includes a validated model, reproducible training pipeline, and Jupyter notebook. (Python)
-- [**house-prices-simple-polynomial-regression**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) — Beginner-friendly House Prices project using degree-2 polynomial regression and Streamlit. (Jupyter Notebook)
-- [**medical-insurance-charges-regression**](https://github.com/mightyalok00/medical-insurance-charges-regression) — End-to-end Medical Insurance Charges Regression project comparing Linear Regression, Polynomial Regression, and Decision Tree Regression with cross-validation, business analysis, model interpretation, and a Streamlit dashboard. (Jupyter Notebook)
-- [**atm-management-system-python**](https://github.com/mightyalok00/atm-management-system-python) — A good GitHub repository description is: Console-based ATM Management System built with Python OOP, JSON file handling, input validation, exception handling, transaction history, and persistent account storage. (Python)
-<!-- LATEST-REPOS:END -->
-
 ---
 
-**Alok Agarwal** • Data Analytics • Data Science • Python • SQL • Machine Learning
+**Alok Agarwal** • SEO + Data Analytics • Data Science • Python • SQL • Machine Learning
