@@ -21,7 +21,16 @@ I build projects that answer business questions, document methodology, report me
 
 These repositories are the strongest examples of my current portfolio quality, documentation, reproducibility, and business thinking.
 
-### 1. 🚕 Uber Fare Prediction — End-to-End Machine Learning
+### 1. 🏦 Bank Customer Churn Prediction — ML + Streamlit
+[**Repository**](https://github.com/mightyalok00/bank-customer-churn-prediction) • [**Live Streamlit App**](https://alok-bank-churn-predictor.streamlit.app/)
+
+End-to-end classification project with robust CSV parsing, identity-field handling, Gini/Entropy decision trees, Random Forest comparison, five-fold validation, threshold analysis, explainability, 216 evidence-based Q&A, automated tests, GitHub Actions, and Streamlit deployment.
+
+**Evidence:** 165,031 cleaned customers • 4 models compared • 0.8036 test accuracy • 0.6218 F1 • 0.8695 ROC-AUC • five-fold ROC-AUC 0.8719.
+
+`Python` `Pandas` `scikit-learn` `Decision Trees` `Random Forest` `Streamlit` `GitHub Actions`
+
+### 2. 🚕 Uber Fare Prediction — End-to-End Machine Learning
 [**Repository**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) • [**Live Streamlit App**](https://uber-fare-prediction-model.streamlit.app/)
 
 Regression project built from a 50,000-trip educational dataset with data validation, feature engineering, leakage-aware preprocessing, model comparison, saved pipeline verification, reproducible training, and deployment.
@@ -30,7 +39,7 @@ Regression project built from a 50,000-trip educational dataset with data valida
 
 `Python` `Pandas` `NumPy` `scikit-learn` `Feature Engineering` `Regression` `Streamlit`
 
-### 2. 🩺 Medical Insurance Charges Regression — ML + Business Interpretation
+### 3. 🩺 Medical Insurance Charges Regression — ML + Business Interpretation
 [**Repository**](https://github.com/mightyalok00/medical-insurance-charges-regression) • [**Live Streamlit App**](https://medical-insurance-charges-regression.streamlit.app/)
 
 End-to-end regression project comparing Linear Regression, Polynomial Regression, and Decision Tree Regression with leakage-safe preprocessing, cross-validation, model interpretation, saved artifacts, reporting, and Streamlit deployment.
@@ -39,7 +48,7 @@ End-to-end regression project comparing Linear Regression, Polynomial Regression
 
 `Python` `Pandas` `scikit-learn` `Model Evaluation` `Business Analysis` `Streamlit`
 
-### 3. 🏠 House Price Prediction — Polynomial Regression
+### 4. 🏠 House Price Prediction — Polynomial Regression
 [**Repository**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) • [**Live Streamlit App**](https://house-prices-simple-polynomial-regression.streamlit.app/)
 
 Focused regression project demonstrating leakage-safe preprocessing, repeated cross-validation, polynomial-degree comparison, residual analysis, model selection, automated tests, GitHub Actions quality checks, and interactive deployment.
@@ -48,7 +57,7 @@ Focused regression project demonstrating leakage-safe preprocessing, repeated cr
 
 `Python` `Pandas` `scikit-learn` `Polynomial Regression` `Testing` `GitHub Actions` `Streamlit`
 
-### 4. 🏥 Apollo Patient Flow — SQL Analytics
+### 5. 🏥 Apollo Patient Flow — SQL Analytics
 [**Repository**](https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis)
 
 Hospital-operations analysis covering admissions, waiting time, length of stay, readmissions, doctor workload, department performance, bed utilization, bottlenecks, and query optimization.
@@ -57,7 +66,7 @@ Hospital-operations analysis covering admissions, waiting time, length of stay, 
 
 `MySQL` `SQL` `CTEs` `Window Functions` `Joins` `Indexes` `Business Analytics`
 
-### 5. 📺 OTT Viewer Engagement — Exploratory Data Analysis
+### 6. 📺 OTT Viewer Engagement — Exploratory Data Analysis
 [**Repository**](https://github.com/mightyalok00/ott-viewer-engagement-eda)
 
 Business-focused EDA of viewer engagement, drop-off, retention risk, watch behavior, pauses, rewinds, intro skipping, and cognitive-load patterns across synthetic OTT episode-level observations.
@@ -66,7 +75,7 @@ Business-focused EDA of viewer engagement, drop-off, retention risk, watch behav
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA` `Business Insights`
 
-### 6. 🎵 Spotify Listener Statistics — Exploratory Data Analysis
+### 7. 🎵 Spotify Listener Statistics — Exploratory Data Analysis
 [**Repository**](https://github.com/mightyalok00/spotify-listener-statistics-eda)
 
 Structured EDA project analyzing streaming trends, listener engagement, artists, genres, countries, skip rates, and platform behavior.
