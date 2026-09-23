@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/mightyalok00?tab=repositories"><strong>Projects</strong></a> •
+  <a href="docs/project-index.md"><strong>Portfolio Index</strong></a> •
+  <a href="docs/skills-evidence.md"><strong>Skills Evidence</strong></a> •
   <a href="https://www.linkedin.com/in/alok-agarwal-seo-digital-marketing/"><strong>LinkedIn</strong></a>
 </p>
 
