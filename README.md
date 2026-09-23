@@ -1,121 +1,138 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Alok%20Agarwal&fontAlign=50&fontAlignY=38&desc=SEO%20%2B%20Digital%20Marketing%20%7C%20Data%20Analytics%20%7C%20Python%20%7C%20SQL%20%7C%20Machine%20Learning&descAlign=50&descAlignY=58" width="100%" alt="Alok Agarwal - SEO, Data Analytics and Junior Data Scientist" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Alok%20Agarwal&fontAlign=50&fontAlignY=38&desc=SEO%20%2B%20Digital%20Marketing%20%7C%20Data%20Analytics%20%7C%20Python%20%7C%20SQL%20%7C%20Machine%20Learning&descAlign=50&descAlignY=58" width="100%" alt="Alok Agarwal — SEO, Digital Marketing, Data Analytics and Machine Learning" />
 </p>
 
 <p align="center">
   <a href="https://github.com/mightyalok00?tab=repositories"><strong>Projects</strong></a> •
-  <a href="https://www.linkedin.com/in/alok-agarwal-seo-digital-marketing"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/alok-agarwal-seo-digital-marketing/"><strong>LinkedIn</strong></a>
 </p>
 
-## About me
+## 👋 About me
 
-I am an **SEO Strategist and Digital Marketer transitioning into Data Analytics, Data Science, and AI/ML**. My work combines hands-on experience in SEO analytics, content strategy, technical audits, reporting, and business growth with practical projects in **Python, SQL, machine learning, data visualization, and Streamlit deployment**.
+I am an **SEO Strategist and Digital Marketer building deeper expertise in Data Analytics, Data Science, and AI/ML**.
 
-I build projects that answer business questions, document methodology, report measurable results, and can be reproduced by another analyst, recruiter, or developer.
+My portfolio connects real business thinking with hands-on work in **Python, SQL, machine learning, EDA, data visualization, model evaluation, and Streamlit deployment**. I focus on projects that are documented clearly, reproducible, and useful to recruiters, analysts, marketers, and technical reviewers.
 
-**Target roles:** Data Analyst • Marketing/Data Analyst • Junior Data Scientist • SEO/Data Analytics roles
+**Open to:** SEO • Technical SEO • Local SEO • Marketing Analytics • Data Analyst • Junior Data Scientist • SEO/Data Analytics roles
 
-**Core skills:** Python • SQL/MySQL • Pandas • NumPy • scikit-learn • Matplotlib • Seaborn • Jupyter • Streamlit • Git • EDA • Regression • Feature Engineering • Model Evaluation • Data Visualization • SEO Analytics
+**Core stack:** Python • SQL/MySQL • Pandas • NumPy • scikit-learn • Matplotlib • Seaborn • Jupyter • Streamlit • Git/GitHub • SEO Analytics
 
-## Best projects to review first
+---
 
-These repositories are the strongest examples of my current portfolio quality, documentation, reproducibility, and business thinking.
+## 🚀 Featured projects
 
-### 1. 🏦 Bank Customer Churn Prediction — ML + Streamlit
-[**Repository**](https://github.com/mightyalok00/bank-customer-churn-prediction) • [**Live Streamlit App**](https://alok-bank-churn-predictor.streamlit.app/)
+### 🏦 Bank Customer Churn Prediction
+[**Repository**](https://github.com/mightyalok00/bank-customer-churn-prediction) • [**Live App**](https://alok-bank-churn-predictor.streamlit.app/)
 
-End-to-end classification project with robust CSV parsing, identity-field handling, Gini/Entropy decision trees, Random Forest comparison, five-fold validation, threshold analysis, explainability, 216 evidence-based Q&A, automated tests, GitHub Actions, and Streamlit deployment.
+End-to-end classification project covering robust data handling, Decision Trees with Gini/Entropy, Random Forest comparison, cross-validation, threshold analysis, explainability, automated tests, GitHub Actions, and Streamlit deployment.
 
-**Evidence:** 165,031 cleaned customers • 4 models compared • 0.8036 test accuracy • 0.6218 F1 • 0.8695 ROC-AUC • five-fold ROC-AUC 0.8719.
+**Portfolio evidence:** 165,031 cleaned customers • 4 models compared • 0.8036 test accuracy • 0.6218 F1 • 0.8695 ROC-AUC • five-fold ROC-AUC 0.8719
 
-`Python` `Pandas` `scikit-learn` `Decision Trees` `Random Forest` `Streamlit` `GitHub Actions`
+**Tech:** Python • Pandas • scikit-learn • Decision Trees • Random Forest • Streamlit • GitHub Actions
 
-### 2. 🚕 Uber Fare Prediction — End-to-End Machine Learning
-[**Repository**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) • [**Live Streamlit App**](https://uber-fare-prediction-model.streamlit.app/)
+### 🚕 Uber Fare Prediction
+[**Repository**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) • [**Live App**](https://uber-fare-prediction-model.streamlit.app/)
 
-Regression project built from a 50,000-trip educational dataset with data validation, feature engineering, leakage-aware preprocessing, model comparison, saved pipeline verification, reproducible training, and deployment.
+Regression project built from a 50,000-trip educational dataset with data validation, feature engineering, leakage-aware preprocessing, model comparison, persisted pipeline verification, and deployment.
 
-**Evidence:** 42,538 completed trips used for modeling • Linear Regression, Random Forest and Gradient Boosting compared • MAE 2.474 • RMSE 3.093 • R² 0.754 for the reported Linear Regression test result.
+**Portfolio evidence:** 42,538 completed trips • Linear Regression, Random Forest and Gradient Boosting compared • reported Linear Regression test MAE 2.474 • RMSE 3.093 • R² 0.754
 
-`Python` `Pandas` `NumPy` `scikit-learn` `Feature Engineering` `Regression` `Streamlit`
+**Tech:** Python • Pandas • NumPy • scikit-learn • Feature Engineering • Regression • Streamlit
 
-### 3. 🩺 Medical Insurance Charges Regression — ML + Business Interpretation
-[**Repository**](https://github.com/mightyalok00/medical-insurance-charges-regression) • [**Live Streamlit App**](https://medical-insurance-charges-regression.streamlit.app/)
+### 🩺 Medical Insurance Charges Regression
+[**Repository**](https://github.com/mightyalok00/medical-insurance-charges-regression) • [**Live App**](https://medical-insurance-charges-regression.streamlit.app/)
 
-End-to-end regression project comparing Linear Regression, Polynomial Regression, and Decision Tree Regression with leakage-safe preprocessing, cross-validation, model interpretation, saved artifacts, reporting, and Streamlit deployment.
+Regression project comparing Linear, Polynomial, and Decision Tree Regression with preprocessing, validation, model interpretation, saved artifacts, reporting, and Streamlit deployment.
 
-**Evidence:** 1,337 cleaned records • 3 models compared • Decision Tree selected on saved holdout metrics • Test R² 0.8972 • Test RMSE 4,345.88.
+**Portfolio evidence:** 1,337 cleaned records • 3 models compared • reported holdout R² 0.8972 • RMSE 4,345.88
 
-`Python` `Pandas` `scikit-learn` `Model Evaluation` `Business Analysis` `Streamlit`
+**Tech:** Python • Pandas • scikit-learn • Regression • Model Evaluation • Streamlit
 
-### 4. 🏠 House Price Prediction — Polynomial Regression
-[**Repository**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) • [**Live Streamlit App**](https://house-prices-simple-polynomial-regression.streamlit.app/)
+### 🏠 House Price Prediction
+[**Repository**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) • [**Live App**](https://house-prices-simple-polynomial-regression.streamlit.app/)
 
-Focused regression project demonstrating leakage-safe preprocessing, repeated cross-validation, polynomial-degree comparison, residual analysis, model selection, automated tests, GitHub Actions quality checks, and interactive deployment.
+Focused regression project demonstrating preprocessing, repeated cross-validation, polynomial-degree comparison, residual analysis, model selection, testing, GitHub Actions, and interactive deployment.
 
-**Evidence:** 25 matched repeated-CV splits • Degree 1 selected for stronger generalization • CV RMSE 25,773.41 • R² 0.8930.
+**Portfolio evidence:** 25 matched repeated-CV splits • Degree 1 selected for stronger generalization • CV RMSE 25,773.41 • R² 0.8930
 
-`Python` `Pandas` `scikit-learn` `Polynomial Regression` `Testing` `GitHub Actions` `Streamlit`
+**Tech:** Python • Pandas • scikit-learn • Polynomial Regression • Testing • GitHub Actions • Streamlit
 
-### 5. 🏥 Apollo Patient Flow — SQL Analytics
+### 🏥 Apollo Patient Flow SQL Analysis
 [**Repository**](https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis)
 
 Hospital-operations analysis covering admissions, waiting time, length of stay, readmissions, doctor workload, department performance, bed utilization, bottlenecks, and query optimization.
 
-**Evidence:** 2,500 admissions • 7,300 bed-occupancy records • 4 hospitals • 15 analytical questions • CTEs, joins, window functions, views, indexing, and `EXPLAIN`.
+**Portfolio evidence:** 2,500 admissions • 7,300 bed-occupancy records • 4 hospitals • 15 analytical questions
 
-`MySQL` `SQL` `CTEs` `Window Functions` `Joins` `Indexes` `Business Analytics`
+**Tech:** MySQL • SQL • CTEs • Window Functions • Joins • Indexes • EXPLAIN
 
-### 6. 📺 OTT Viewer Engagement — Exploratory Data Analysis
+### 📺 OTT Viewer Engagement EDA
 [**Repository**](https://github.com/mightyalok00/ott-viewer-engagement-eda)
 
-Business-focused EDA of viewer engagement, drop-off, retention risk, watch behavior, pauses, rewinds, intro skipping, and cognitive-load patterns across synthetic OTT episode-level observations.
+Business-focused EDA covering viewer engagement, drop-off, retention risk, watch behavior, pauses, rewinds, intro skipping, and cognitive-load patterns.
 
-**Evidence:** 33,171 records • 14-stage EDA workflow • engagement/drop-off/retention insights • documented limitations and synthetic-data disclaimer.
+**Portfolio evidence:** 33,171 records • 14-stage EDA workflow • documented limitations and synthetic-data disclaimer
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA` `Business Insights`
+**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • EDA
 
-### 7. 🎵 Spotify Listener Statistics — Exploratory Data Analysis
+### 🎵 Spotify Listener Statistics EDA
 [**Repository**](https://github.com/mightyalok00/spotify-listener-statistics-eda)
 
-Structured EDA project analyzing streaming trends, listener engagement, artists, genres, countries, skip rates, and platform behavior.
+Structured exploratory analysis of streaming trends, listener engagement, artists, genres, countries, skip rates, and platform behavior.
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Data Visualization`
+**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Data Visualization
 
-## Additional Python engineering
+---
+
+## 🧰 Additional Python projects
 
 ### 🏧 ATM Management System
 [**Repository**](https://github.com/mightyalok00/atm-management-system-python)
 
-Console-based Python application demonstrating object-oriented programming, JSON persistence, input validation, custom exceptions, transaction history, rollback behavior, and automated unit tests.
-
-`Python` `OOP` `JSON` `unittest` `Exception Handling`
+Console-based application demonstrating OOP, JSON persistence, input validation, custom exceptions, transaction history, rollback behavior, and automated unit tests.
 
 ### 🖐️ AI Hand Gesture Recognition
 [**Repository**](https://github.com/mightyalok00/ai-hand-gesture-recognition)
 
-Real-time computer-vision application using webcam input, landmark tracking, confidence controls, temporal smoothing, real-time FPS, and downloadable gesture history.
+Real-time computer-vision application using webcam input, landmark tracking, confidence controls, temporal smoothing, FPS monitoring, and gesture history.
 
-`Python` `OpenCV` `MediaPipe` `Streamlit` `Computer Vision`
+---
 
-## What my portfolio demonstrates
+## 📌 Latest repositories
 
-- **Data analysis:** cleaning, EDA, visualization, KPI interpretation, and business-focused findings.
-- **SQL:** joins, CTEs, window functions, aggregation, indexing, and operational analysis.
-- **Machine learning:** feature engineering, regression, leakage awareness, model comparison, evaluation, and persisted pipelines.
-- **Deployment:** interactive Streamlit applications for prediction and analysis.
-- **Python engineering:** modular code, OOP, validation, exception handling, persistence, and automated tests.
-- **Marketing analytics bridge:** SEO and digital-marketing experience translated into data-driven reporting, experimentation, and business recommendations.
+This section is maintained by the profile updater so recently active projects stay visible without manually editing the README.
 
-## Technical toolkit
+<!-- LATEST-REPOS:START -->
+_Run the **Update Profile Snapshot** workflow to refresh this section._
+<!-- LATEST-REPOS:END -->
 
-`Python` `SQL` `MySQL` `Pandas` `NumPy` `scikit-learn` `Matplotlib` `Seaborn` `Jupyter Notebook` `Streamlit` `OpenCV` `MediaPipe` `Git` `GitHub` `SEO Analytics`
+---
 
-## Currently learning
+## 💼 What this portfolio demonstrates
 
-I am developing deeper capability in **advanced machine learning, NLP, deep learning, Generative AI, RAG, and production deployment**. These are listed as learning areas rather than claimed as proven portfolio competencies.
+- **SEO & marketing analytics:** technical SEO, search-performance analysis, reporting, experimentation, and business-focused recommendations.
+- **Data analysis:** cleaning, EDA, visualization, KPI interpretation, and communicating findings.
+- **SQL:** joins, CTEs, window functions, aggregation, indexing, views, and query analysis.
+- **Machine learning:** regression, classification, feature engineering, leakage awareness, cross-validation, model comparison, and evaluation.
+- **Deployment:** interactive Streamlit applications and persisted model pipelines.
+- **Python engineering:** modular code, OOP, validation, exception handling, persistence, testing, and automation.
 
-## GitHub snapshot
+## 🛠 Technical toolkit
+
+**Data & ML:** Python • Pandas • NumPy • scikit-learn • Matplotlib • Seaborn • Jupyter Notebook  
+**Databases:** SQL • MySQL  
+**Deployment & Engineering:** Streamlit • Git • GitHub • GitHub Actions  
+**Marketing:** SEO Analytics • Technical SEO • Local SEO • Search Console • GA4 • Ahrefs • Semrush
+
+## 📚 Currently learning
+
+Advanced machine learning • NLP • Deep learning • Generative AI • RAG • production-oriented AI/ML workflows
+
+These are learning areas, not presented as proven professional competencies.
+
+---
+
+## 📊 GitHub snapshot
 
 <p align="center">
   <img src="assets/code-language-distribution.svg" width="800" alt="Code language distribution across active public repositories" />
@@ -129,9 +146,7 @@ I am developing deeper capability in **advanced machine learning, NLP, deep lear
   <img src="assets/repository-update-timeline.svg" width="800" alt="Recent repository update timeline" />
 </p>
 
-## Contribution activity
-
-[**View live GitHub contribution history →**](https://github.com/mightyalok00)
+## 🐍 Contribution activity
 
 <p align="center">
   <picture>
@@ -141,6 +156,7 @@ I am developing deeper capability in **advanced machine learning, NLP, deep lear
   </picture>
 </p>
 
----
-
-**Alok Agarwal** • SEO + Data Analytics • Data Science • Python • SQL • Machine Learning
+<p align="center">
+  <strong>Alok Agarwal</strong><br/>
+  SEO + Digital Marketing • Data Analytics • Python • SQL • Machine Learning
+</p>
