@@ -89,13 +89,8 @@ def render_latest_repositories(repositories):
     lines = []
     for repo in selected:
         description = clean(repo.get("description")) or "Explore this repository on GitHub."
-        details = []
-        if repo.get("language"):
-            details.append(repo["language"])
-        if repo.get("stargazers_count"):
-            details.append(f"⭐ {repo['stargazers_count']}")
-        suffix = f" ({' · '.join(details)})" if details else ""
-        lines.append(f"- [**{repo['name']}**]({repo['html_url']}) — {description}{suffix}")
+        star_suffix = f" (⭐ {repo['stargazers_count']})" if repo.get("stargazers_count") else ""
+        lines.append(f"- [**{repo['name']}**]({repo['html_url']}) — {description}{star_suffix}")
     return "\n".join(lines)
 
 
