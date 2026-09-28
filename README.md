@@ -105,12 +105,12 @@ Real-time computer-vision application using webcam input, landmark tracking, con
 This section is maintained by the profile updater so recently active projects stay visible without manually editing the README.
 
 <!-- LATEST-REPOS:START -->
+- [**genai-text-to-image-studio**](https://github.com/mightyalok00/genai-text-to-image-studio) — A local AI text-to-image studio built with Python, PyTorch, Hugging Face Diffusers, Stable Diffusion v1.5, and Streamlit. Generate photorealistic images from text prompts with reproducible seeds, configurable inference steps, guidance scale, resolution, CUDA acceleration, and VRAM-efficient CPU offloading.
+- [**bike-sharing-demand-regression-ml**](https://github.com/mightyalok00/bike-sharing-demand-regression-ml) — End-to-end Bike Sharing Demand prediction using Python, Pandas, NumPy & Scikit-learn — feature engineering, regression models, cross-validation, hyperparameter tuning, testing & Streamlit deployment.
+- [**Uber-Fare-Prediction-Model**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) — Uber fare prediction using machine learning, with data cleaning, feature engineering, regression model comparison, and a Streamlit dashboard. Includes a validated model, reproducible training pipeline, and Jupyter notebook. (⭐ 1)
+- [**superconductivity-elasticnet-regression**](https://github.com/mightyalok00/superconductivity-elasticnet-regression) — Predicting superconducting critical temperature using ElasticNet, Ridge and Lasso regression with feature selection, cross-validation and scientific analysis.
 - [**used-car-price-prediction-linear-ridge-lasso**](https://github.com/mightyalok00/used-car-price-prediction-linear-ridge-lasso) — End-to-end used-car price prediction with leakage-safe preprocessing, Linear/Ridge/Lasso comparison, cross-validation, diagnostics, and dealership pricing insights.
 - [**ai-seo-intelligence-fastapi**](https://github.com/mightyalok00/ai-seo-intelligence-fastapi) — Strict 100-point SEO audit API with FastAPI, ML search-intent prediction, explainable category scoring, responsive dashboard, tests, and Docker.
-- [**house-prices-simple-polynomial-regression**](https://github.com/mightyalok00/house-prices-simple-polynomial-regression) — House-price prediction comparing polynomial degrees 1 and 2 with repeated cross-validation; degree 1 selected for stronger generalization, with tests, CI, and Streamlit. (⭐ 1)
-- [**atm-management-system-python**](https://github.com/mightyalok00/atm-management-system-python) — Console-based ATM management system built with Python OOP, JSON persistence, validation, transaction history, rollback protection, unit tests, and CI. (⭐ 1)
-- [**bank-customer-churn-prediction**](https://github.com/mightyalok00/bank-customer-churn-prediction) — End-to-end bank customer churn prediction using Gini/Entropy decision trees, Random Forest, explainability, 216 Q&A, and Streamlit.
-- [**apollo-patient-flow-SQL-analysis**](https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis) — End-to-end MySQL 8.0 analysis of a synthetic hospital patient-flow dataset using joins, CTEs, window functions, indexes and query optimization to examine admissions, waiting times, readmissions, bed utilization and operational bottlenecks. (⭐ 1)
 <!-- LATEST-REPOS:END -->
 
 ---
