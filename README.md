@@ -105,12 +105,12 @@ Real-time computer-vision application using webcam input, landmark tracking, con
 This section is maintained by the profile updater so recently active projects stay visible without manually editing the README.
 
 <!-- LATEST-REPOS:START -->
+- [**telco-customer-churn-logistic-regression**](https://github.com/mightyalok00/telco-customer-churn-logistic-regression) — End-to-end Telco Customer Churn analysis using Logistic Regression, combining deep business analysis, statistical testing, feature engineering, model optimization, probability calibration, threshold analysis, customer risk segmentation, and interpretable churn insights.
+- [**gradient-descent-mastery**](https://github.com/mightyalok00/gradient-descent-mastery) — Production-grade Gradient Descent framework built from scratch in NumPy (BGD, SGD, MBGD, Momentum, NAG, Adam, AdamW), featuring linear-algebraic missing data analysis, automated EDA profiling, interactive Streamlit lab, and rigorous mathematical proofs for 16 advanced optimization problems.
 - [**genai-text-to-image-studio**](https://github.com/mightyalok00/genai-text-to-image-studio) — A local AI text-to-image studio built with Python, PyTorch, Hugging Face Diffusers, Stable Diffusion v1.5, and Streamlit. Generate photorealistic images from text prompts with reproducible seeds, configurable inference steps, guidance scale, resolution, CUDA acceleration, and VRAM-efficient CPU offloading.
 - [**bike-sharing-demand-regression-ml**](https://github.com/mightyalok00/bike-sharing-demand-regression-ml) — End-to-end Bike Sharing Demand prediction using Python, Pandas, NumPy & Scikit-learn — feature engineering, regression models, cross-validation, hyperparameter tuning, testing & Streamlit deployment.
 - [**Uber-Fare-Prediction-Model**](https://github.com/mightyalok00/Uber-Fare-Prediction-Model) — Uber fare prediction using machine learning, with data cleaning, feature engineering, regression model comparison, and a Streamlit dashboard. Includes a validated model, reproducible training pipeline, and Jupyter notebook. (⭐ 1)
 - [**superconductivity-elasticnet-regression**](https://github.com/mightyalok00/superconductivity-elasticnet-regression) — Predicting superconducting critical temperature using ElasticNet, Ridge and Lasso regression with feature selection, cross-validation and scientific analysis.
-- [**used-car-price-prediction-linear-ridge-lasso**](https://github.com/mightyalok00/used-car-price-prediction-linear-ridge-lasso) — End-to-end used-car price prediction with leakage-safe preprocessing, Linear/Ridge/Lasso comparison, cross-validation, diagnostics, and dealership pricing insights.
-- [**ai-seo-intelligence-fastapi**](https://github.com/mightyalok00/ai-seo-intelligence-fastapi) — Strict 100-point SEO audit API with FastAPI, ML search-intent prediction, explainable category scoring, responsive dashboard, tests, and Docker.
 <!-- LATEST-REPOS:END -->
 
 ---
