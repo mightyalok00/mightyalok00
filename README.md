@@ -105,12 +105,12 @@ Real-time computer-vision application using webcam input, landmark tracking, con
 This section is maintained by the profile updater so recently active projects stay visible without manually editing the README.
 
 <!-- LATEST-REPOS:START -->
+- [**seo-ai-intelligence**](https://github.com/mightyalok00/seo-ai-intelligence) — AI-powered SEO intelligence platform that combines machine learning, NLP, web analytics, and LLMs to predict ranking potential, analyze search intent, detect content gaps, and generate actionable SEO recommendations.
 - [**crossplatform-sudoku-python**](https://github.com/mightyalok00/crossplatform-sudoku-python) — "Full-stack cross-platform Sudoku engine & Flutter-powered UI in Python featuring MRV backtracking generation, unique solution guarantee, undo/redo history, and responsive controls."
 - [**movie-recommendation-system-scikit-learn**](https://github.com/mightyalok00/movie-recommendation-system-scikit-learn) — End-to-end MovieLens 32M movie recommendation system using Python & Scikit-learn — content-based, collaborative, hybrid, SVD, KNN, ranking evaluation, cold-start handling, and deployment.
 - [**alok-ai-portfolio**](https://github.com/mightyalok00/alok-ai-portfolio) — AI-powered recruiter portfolio built with React, FastAPI, and local Ollama LLMs.
 - [**bike-sharing-demand-regression-ml**](https://github.com/mightyalok00/bike-sharing-demand-regression-ml) — End-to-end Bike Sharing Demand prediction using Python, Pandas, NumPy & Scikit-learn — feature engineering, regression models, cross-validation, hyperparameter tuning, testing & Streamlit deployment.
 - [**telco-customer-churn-logistic-regression**](https://github.com/mightyalok00/telco-customer-churn-logistic-regression) — End-to-end Telco Customer Churn analysis using Logistic Regression, combining deep business analysis, statistical testing, feature engineering, model optimization, probability calibration, threshold analysis, customer risk segmentation, and interpretable churn insights.
-- [**gradient-descent-mastery**](https://github.com/mightyalok00/gradient-descent-mastery) — Production-grade Gradient Descent framework built from scratch in NumPy (BGD, SGD, MBGD, Momentum, NAG, Adam, AdamW), featuring linear-algebraic missing data analysis, automated EDA profiling, interactive Streamlit lab, and rigorous mathematical proofs for 16 advanced optimization problems.
 <!-- LATEST-REPOS:END -->
 
 ---
