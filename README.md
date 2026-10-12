@@ -105,12 +105,12 @@ Real-time computer-vision application using webcam input, landmark tracking, con
 This section is maintained by the profile updater so recently active projects stay visible without manually editing the README.
 
 <!-- LATEST-REPOS:START -->
+- [**callintel-ai**](https://github.com/mightyalok00/callintel-ai) — AI-powered Call Intelligence Engine that transforms recorded and live customer conversations into actionable insights using speech recognition, NLP, sentiment and intent analysis, churn prediction, and evidence-backed AI recommendations. Built with Python, FastAPI, Streamlit, Scikit-learn, and hybrid local/cloud LLMs.
+- [**alok--ai--portfolio**](https://github.com/mightyalok00/alok--ai--portfolio) — A modern, animated personal portfolio built with FastAPI, showcasing SEO, digital marketing, data analytics, Python, and AI/ML projects, with interactive project exploration, a resume, and client contact features.
+- [**crewai-content-engine**](https://github.com/mightyalok00/crewai-content-engine) — Autonomous 9-agent CrewAI pipeline powered by Google Gemini to convert technical YouTube videos into publish-ready blog posts, podcast scripts, newsletters, SEO kits, and Mermaid diagrams.
+- [**Repo-Doctor-AI**](https://github.com/mightyalok00/Repo-Doctor-AI) — An AI-powered autonomous engineer that diagnoses, scores, and repairs GitHub repositories.
 - [**seo-ai-intelligence**](https://github.com/mightyalok00/seo-ai-intelligence) — AI-powered SEO intelligence platform that combines machine learning, NLP, web analytics, and LLMs to predict ranking potential, analyze search intent, detect content gaps, and generate actionable SEO recommendations.
 - [**crossplatform-sudoku-python**](https://github.com/mightyalok00/crossplatform-sudoku-python) — "Full-stack cross-platform Sudoku engine & Flutter-powered UI in Python featuring MRV backtracking generation, unique solution guarantee, undo/redo history, and responsive controls."
-- [**movie-recommendation-system-scikit-learn**](https://github.com/mightyalok00/movie-recommendation-system-scikit-learn) — End-to-end MovieLens 32M movie recommendation system using Python & Scikit-learn — content-based, collaborative, hybrid, SVD, KNN, ranking evaluation, cold-start handling, and deployment.
-- [**alok-ai-portfolio**](https://github.com/mightyalok00/alok-ai-portfolio) — AI-powered recruiter portfolio built with React, FastAPI, and local Ollama LLMs.
-- [**bike-sharing-demand-regression-ml**](https://github.com/mightyalok00/bike-sharing-demand-regression-ml) — End-to-end Bike Sharing Demand prediction using Python, Pandas, NumPy & Scikit-learn — feature engineering, regression models, cross-validation, hyperparameter tuning, testing & Streamlit deployment.
-- [**telco-customer-churn-logistic-regression**](https://github.com/mightyalok00/telco-customer-churn-logistic-regression) — End-to-end Telco Customer Churn analysis using Logistic Regression, combining deep business analysis, statistical testing, feature engineering, model optimization, probability calibration, threshold analysis, customer risk segmentation, and interpretable churn insights.
 <!-- LATEST-REPOS:END -->
 
 ---
