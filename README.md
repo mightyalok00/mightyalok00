@@ -105,12 +105,12 @@ Real-time computer-vision application using webcam input, landmark tracking, con
 This section is maintained by the profile updater so recently active projects stay visible without manually editing the README.
 
 <!-- LATEST-REPOS:START -->
-- [**nexus-9**](https://github.com/mightyalok00/nexus-9) — NEXUS-9 — An autonomous AI research engine for world simulation, causal discovery, active experimentation, uncertainty-aware prediction, and robust decision optimization. Copy repository name Copy description
+- [**Omniflux**](https://github.com/mightyalok00/Omniflux) — An open-source AI assistant that unifies local and cloud LLMs, intelligent agents, messaging platforms, and workflow automation into one extensible platform.
+- [**open-semrush**](https://github.com/mightyalok00/open-semrush) — Free, self-hosted Semrush alternative with AI-powered site audits, live Google SERP inspector, 24-month traffic history, and competitor gap matrices. Powered by Docker, Gemini & OpenRouter.
 - [**callintel-ai**](https://github.com/mightyalok00/callintel-ai) — AI-powered Call Intelligence Engine that transforms recorded and live customer conversations into actionable insights using speech recognition, NLP, sentiment and intent analysis, churn prediction, and evidence-backed AI recommendations. Built with Python, FastAPI, Streamlit, Scikit-learn, and hybrid local/cloud LLMs. (⭐ 1)
+- [**NeuroATS-Intelligence**](https://github.com/mightyalok00/NeuroATS-Intelligence) — 🎯 Local-first AI/ML ATS Compliance Auditor & Recruiter Decision Engine. Evaluate single or batch candidates with deterministic 7-axis ATS grading, skill gap matrix, and real-time bullet point optimization with zero external API fees.
+- [**nexus-9**](https://github.com/mightyalok00/nexus-9) — NEXUS-9 — An autonomous AI research engine for world simulation, causal discovery, active experimentation, uncertainty-aware prediction, and robust decision optimization. Copy repository name Copy description
 - [**alok--ai--portfolio**](https://github.com/mightyalok00/alok--ai--portfolio) — A modern, animated personal portfolio built with FastAPI, showcasing SEO, digital marketing, data analytics, Python, and AI/ML projects, with interactive project exploration, a resume, and client contact features.
-- [**crewai-content-engine**](https://github.com/mightyalok00/crewai-content-engine) — Autonomous 9-agent CrewAI pipeline powered by Google Gemini to convert technical YouTube videos into publish-ready blog posts, podcast scripts, newsletters, SEO kits, and Mermaid diagrams.
-- [**Repo-Doctor-AI**](https://github.com/mightyalok00/Repo-Doctor-AI) — An AI-powered autonomous engineer that diagnoses, scores, and repairs GitHub repositories.
-- [**seo-ai-intelligence**](https://github.com/mightyalok00/seo-ai-intelligence) — AI-powered SEO intelligence platform that combines machine learning, NLP, web analytics, and LLMs to predict ranking potential, analyze search intent, detect content gaps, and generate actionable SEO recommendations.
 <!-- LATEST-REPOS:END -->
 
 ---
