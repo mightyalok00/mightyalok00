@@ -105,12 +105,12 @@ Real-time computer-vision application using webcam input, landmark tracking, con
 This section is maintained by the profile updater so recently active projects stay visible without manually editing the README.
 
 <!-- LATEST-REPOS:START -->
+- [**ClipCraft**](https://github.com/mightyalok00/ClipCraft) — ⚡ Open-source AI shorts generator. Auto-reframe, face-tracking, animated karaoke captions, and virality ranking for YouTube Shorts, Reels, and TikTok.
+- [**sentinel-aiops**](https://github.com/mightyalok00/sentinel-aiops) — "Evidence-driven multimodal AIOps platform for microservice telemetry anomaly detection and automated Root Cause Analysis (RCA) using PyTorch LSTM Autoencoders, Isolation Forests, and RCAEval benchmark incident replay."
+- [**linkintel-ai-deep-learning**](https://github.com/mightyalok00/linkintel-ai-deep-learning) — AI-powered backlink intelligence using FastAPI, deep learning, NLP, and machine learning to rank backlink opportunities, assess topical relevance and spam risk, and identify verified free link-building prospects. Includes REST APIs, explainable scoring, and CSV exports.
+- [**visionlab-cnn-fastapi**](https://github.com/mightyalok00/visionlab-cnn-fastapi) — End-to-end Fashion-MNIST classification using scratch CNNs, leak-free validation Macro-F1 model selection, and a production FastAPI service with an interactive web playground.
 - [**Omniflux**](https://github.com/mightyalok00/Omniflux) — An open-source AI assistant that unifies local and cloud LLMs, intelligent agents, messaging platforms, and workflow automation into one extensible platform.
 - [**open-semrush**](https://github.com/mightyalok00/open-semrush) — Free, self-hosted Semrush alternative with AI-powered site audits, live Google SERP inspector, 24-month traffic history, and competitor gap matrices. Powered by Docker, Gemini & OpenRouter.
-- [**callintel-ai**](https://github.com/mightyalok00/callintel-ai) — AI-powered Call Intelligence Engine that transforms recorded and live customer conversations into actionable insights using speech recognition, NLP, sentiment and intent analysis, churn prediction, and evidence-backed AI recommendations. Built with Python, FastAPI, Streamlit, Scikit-learn, and hybrid local/cloud LLMs. (⭐ 1)
-- [**NeuroATS-Intelligence**](https://github.com/mightyalok00/NeuroATS-Intelligence) — 🎯 Local-first AI/ML ATS Compliance Auditor & Recruiter Decision Engine. Evaluate single or batch candidates with deterministic 7-axis ATS grading, skill gap matrix, and real-time bullet point optimization with zero external API fees.
-- [**nexus-9**](https://github.com/mightyalok00/nexus-9) — NEXUS-9 — An autonomous AI research engine for world simulation, causal discovery, active experimentation, uncertainty-aware prediction, and robust decision optimization. Copy repository name Copy description
-- [**alok--ai--portfolio**](https://github.com/mightyalok00/alok--ai--portfolio) — A modern, animated personal portfolio built with FastAPI, showcasing SEO, digital marketing, data analytics, Python, and AI/ML projects, with interactive project exploration, a resume, and client contact features.
 <!-- LATEST-REPOS:END -->
 
 ---
