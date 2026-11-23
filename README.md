@@ -105,12 +105,12 @@ Real-time computer-vision application using webcam input, landmark tracking, con
 This section is maintained by the profile updater so recently active projects stay visible without manually editing the README.
 
 <!-- LATEST-REPOS:START -->
+- [**celeba-face-intelligence-suite**](https://github.com/mightyalok00/celeba-face-intelligence-suite) — End-to-end facial attribute classification and identity verification system powered by deep learning (ViT, ResNet, XGBoost), MySQL 8.0 knowledge graph, and Model Context Protocol (MCP).
 - [**autovideo-ai**](https://github.com/mightyalok00/autovideo-ai) — 🎬 100% Free, Autonomous AI Long-Form Video Producer: Local Ollama scripts, Neural TTS voiceovers, FFmpeg Ken Burns rendering, and YouTube SEO packaging.
 - [**bank-customer-churn-prediction**](https://github.com/mightyalok00/bank-customer-churn-prediction) — End-to-end bank customer churn prediction using Gini/Entropy decision trees, Random Forest, explainability, 216 Q&A, and Streamlit. (⭐ 1)
 - [**apple-review-sentiment-lstm**](https://github.com/mightyalok00/apple-review-sentiment-lstm) — End-to-end NLP pipeline & Bidirectional LSTM classifier trained on a 65,000-review multi-country consumer dataset.
 - [**apollo-patient-flow-SQL-analysis**](https://github.com/mightyalok00/apollo-patient-flow-SQL-analysis) — End-to-end MySQL 8.0 analysis of a synthetic hospital patient-flow dataset using joins, CTEs, window functions, indexes and query optimization to examine admissions, waiting times, readmissions, bed utilization and operational bottlenecks. (⭐ 1)
 - [**open-semrush**](https://github.com/mightyalok00/open-semrush) — Free, self-hosted Semrush alternative with AI-powered site audits, live Google SERP inspector, 24-month traffic history, and competitor gap matrices. Powered by Docker, Gemini & OpenRouter.
-- [**ClipCraft**](https://github.com/mightyalok00/ClipCraft) — ⚡ Open-source AI shorts generator. Auto-reframe, face-tracking, animated karaoke captions, and virality ranking for YouTube Shorts, Reels, and TikTok.
 <!-- LATEST-REPOS:END -->
 
 ---
